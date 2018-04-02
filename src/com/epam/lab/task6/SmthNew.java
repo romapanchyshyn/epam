@@ -6,4 +6,7 @@ public class SmthNew {
 public static void norm(){
 }
 
+public static void forNewCommit(){
+}
+
 }
