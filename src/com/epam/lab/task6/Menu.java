@@ -12,6 +12,7 @@ public class Menu {
 
     public void showMenu() {
         int tempForCheck;
+        NewClassForBranch.printInNewBranch();
         do {
             LOGGER.info("Choose task1 - '1', task2 - '2'. For end enter '0'");
             tempForCheck = checkInput();
