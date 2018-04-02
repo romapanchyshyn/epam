@@ -4,5 +4,6 @@ public class NewClassForBranch {
     public static void printInNewBranch(){
         System.out.println("New branch in program");
         System.out.println("Text in branch new_class");
+        System.out.println("Another new text in branch new_class");
     }
 }
